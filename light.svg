@@ -1,198 +1,297 @@
-<svg width="1180" height="610" viewBox="0 0 1180 610" xmlns="http://www.w3.org/2000/svg" role="img" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo3MmQwN2YzYy01MjJjLTQwYzEtODIzNi01MGJiNzAyMTkxNjYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaI+vTDIA5lW5S+XOHV5rqz0AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDowMTM0N2MwYy00NmU4LTRmYjgtYTc5NC0yNzFjZTQ3MTE3MGRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoiXVHuX4bUrz6OXgulnT4wgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggSswnEuKfFFs83anWzI80nW/C3+AvpLcxFf2HjYsMJ46kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaJqR8V6JOe9JzHCzexr2j/4AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDH4GzB1KH5OTvghiK2ugM+xN4u1aNNyfPLwXiNo0z1Y2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBijZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjcyZDA3ZjNjLTUyMmMtNDBjMS04MjM2LTUwYmI3MDIxOTE2Ni9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmU5YjFmMDNkLTljOWItNDNlMi1hMjg0LTE1Zjk3YzI3M2Y2YnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBKzCcS4p8UWzzdqdbMjzSdb8Lf4C+ktzEV/YeNiwwnjqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggE7CXFw1E2e2njQAGc5T/mod2kDwtk3N1rRmfz9dsEueiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggu4V1kmZeHuLDMDD++CxVzwyPM1iBFnLQix4BAFGTPxV0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQBEFS6VWtsy9JhG395uGmZAwBk4nUUHWslsDkLz1l016j9AtpWgc3yVwPpchyYkqinZ1MeNoJxdSHw0BmE2ENSU=</c2pa:manifest></metadata>
-  <title>Arpit - Java Backend Developer & Software Engineer</title>
-  <desc>Premium GitHub profile hero. Java backend specialist with Spring Boot, Docker, and cloud-native expertise. Open to roles across India.</desc>
-  
+<svg
+  width="1180"
+  height="610"
+  viewBox="0 0 1180 610"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-label="GitHub profile banner for Arpit Sahu — Java Spring Boot Developer, MCA 2026, Dehradun"
+ xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo4MjliN2U5Yy1hNzQ5LTRiY2EtOWM0Yi1kODkyYjVlNjZlMGMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaN2pnVCHOHxfNM9PP1ZcBe4AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo3ODg4ZTI1MC1lODRjLTQ1ZWEtOGNhZC02MDFjNjk4YTY1MjdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoswuRoFHuLbXPoGA61c2FVQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggWHOUrXolLK0cFb0bUWGiJzAdMnaaE6XuU4bVZt6GQoykZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaEoNkxv1AoyJsg2gaqOKJhUAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYICPQEXzXbw9VIDsbIS1CC0psHPN+oc8em1d0mOecnhMXZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQEVZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjgyOWI3ZTljLWE3NDktNGJjYS05YzRiLWQ4OTJiNWU2NmUwYy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmUxZDZjNDJiLWY3ODYtNDAyNi1hM2FhLWFkYTI4ODk4M2FhM3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBYc5SteiUsrRwVvRtRYaInMB0ydpoTpe5ThtVm3oZCjKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg+oAO0uNpRKubEAVij+rM6LPPHcDHCG01gwgeMA7g1xeiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggpqbA29JtyrzYSmiqDG7Uk4z3m7pDKH87c9/1TldYCJF0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQLOXcGJRAT7z19J++HVLfi4CbBL5G8ZpibpTnA4Yc4ef+HV4fQEpOF8meoSTwREdn6iFn2CsJVTKNEJTBSLQVDU=</c2pa:manifest></metadata>
   <defs>
-    <linearGradient id="light-bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2563EB;stop-opacity:0.08"/>
-      <stop offset="50%" style="stop-color:#06B6D4;stop-opacity:0.05"/>
-      <stop offset="100%" style="stop-color:#10B981;stop-opacity:0.03"/>
+    <linearGradient id="bgL" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="55%" stop-color="#F0F7FF"/>
+      <stop offset="100%" stop-color="#EAF2FB"/>
     </linearGradient>
-    
-    <filter id="glow-light">
-      <feGaussianBlur stdDeviation="1.5" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <radialGradient id="glLL" cx="22%" cy="50%" r="42%">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glRL" cx="78%" cy="50%" r="42%">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="shimmerL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#2563EB" stop-opacity="0.50"/>
+      <stop offset="35%"  stop-color="#06B6D4" stop-opacity="0.70"/>
+      <stop offset="65%"  stop-color="#10B981" stop-opacity="0.50"/>
+      <stop offset="100%" stop-color="#2563EB" stop-opacity="0.35"/>
+    </linearGradient>
+    <linearGradient id="pillL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F1F5F9"/>
+      <stop offset="100%" stop-color="#E8F0FE"/>
+    </linearGradient>
+    <clipPath id="outerL">
+      <rect x="2" y="2" width="1176" height="606" rx="20" ry="20"/>
+    </clipPath>
+    <filter id="glowL" x="-30%" y="-60%" width="160%" height="220%">
+      <feGaussianBlur stdDeviation="1.8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    
-    <pattern id="grid-light" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(15,23,42,0.04)" stroke-width="0.5"/>
-    </pattern>
+    <filter id="bglowL" x="-5%" y="-5%" width="110%" height="110%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="shadowL" x="-3%" y="-3%" width="106%" height="115%">
+      <feDropShadow dx="0" dy="2" stdDeviation="5" flood-color="#2563EB" flood-opacity="0.07"/>
+    </filter>
   </defs>
-  
-  <!-- Background layers -->
-  <rect width="1180" height="610" fill="#FFFFFF"/>
-  <rect width="1180" height="610" fill="url(#light-bg)"/>
-  <rect width="1180" height="610" fill="url(#grid-light)"/>
-  
-  <!-- Soft accent line -->
-  <rect x="0" y="0" width="1180" height="1" fill="none" stroke="url(#light-bg)" stroke-width="1" opacity="0.4">
-    <animate attributeName="y" values="0;610;0" dur="24s" repeatCount="indefinite"/>
-  </rect>
-  
-  <!-- Main frame (rounded container) -->
-  <rect x="20" y="20" width="1140" height="570" rx="24" fill="rgba(255,255,255,0.7)" stroke="rgba(71,85,105,0.15)" stroke-width="1.5"/>
-  
-  <!-- LEFT PANEL - Visual Identity (38% width) -->
-  <g id="left-panel">
-    <!-- Terminal header -->
-    <rect x="40" y="40" width="420" height="32" rx="8" fill="rgba(226,232,240,0.5)" stroke="rgba(37,99,235,0.2)" stroke-width="1"/>
-    <circle cx="60" cy="56" r="4" fill="#DC2626"/>
-    <circle cx="85" cy="56" r="4" fill="#F59E0B"/>
-    <circle cx="110" cy="56" r="4" fill="#10B981"/>
-    <text x="200" y="61" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#64748B" text-anchor="middle">arpit@developer:~</text>
-    <text x="400" y="61" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" fill="#2563EB" text-anchor="end">[ONLINE]</text>
-    
-    <!-- ASCII-style portrait box -->
-    <rect x="40" y="92" width="420" height="340" rx="12" fill="rgba(243,244,246,0.6)" stroke="rgba(37,99,235,0.15)" stroke-width="1.5" opacity="0.9"/>
-    
-    <!-- Decorative ASCII pattern (Java themed) -->
-    <text x="100" y="140" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#059669" opacity="0.7">
-      <tspan x="100" dy="0">░░░░▓▓████░░░░</tspan>
-      <tspan x="100" dy="12">░▓██████████▓░</tspan>
-      <tspan x="100" dy="12">▓██▀▀▀▀▀▀██▓░</tspan>
-      <tspan x="100" dy="12">██░ JAVA  ░██░</tspan>
-      <tspan x="100" dy="12">██░ BACKEND ░██</tspan>
-      <tspan x="100" dy="12">▓██▄▄▄▄▄▄██▓░</tspan>
-      <tspan x="100" dy="12">░▓██████████▓░</tspan>
-      <tspan x="100" dy="12">░░░░▓▓████░░░░</tspan>
-    </text>
-    
-    <text x="250" y="240" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" fill="#2563EB" opacity="0.9" text-anchor="middle">
-      <tspan x="250" dy="0">&gt; engineering software</tspan>
-      <tspan x="250" dy="16">&gt; building backends</tspan>
-      <tspan x="250" dy="16">&gt; learning continuously</tspan>
-    </text>
-    
-    <!-- Command prompt animation -->
-    <text x="60" y="355" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" fill="#06B6D4">~/profile $</text>
-    <text x="160" y="355" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" fill="#0F172A">./load-skills</text>
-    
-    <!-- Blinking cursor -->
-    <rect x="290" y="345" width="2" height="16" fill="#06B6D4">
-      <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
-    </rect>
-    
-    <!-- Status indicator -->
-    <circle cx="70" cy="405" r="4" fill="#059669"/>
-    <text x="85" y="410" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#64748B">Status: Ready</text>
-    
-    <!-- Experience badge -->
-    <rect x="60" y="430" width="380" height="28" rx="8" fill="rgba(37,99,235,0.1)" stroke="rgba(37,99,235,0.3)" stroke-width="1"/>
-    <text x="80" y="450" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" fill="#06B6D4">◆ MCA 2026</text>
-    <text x="200" y="450" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" fill="#0F172A">Graphic Era Hill University</text>
+
+  <!-- Base -->
+  <rect x="0" y="0" width="1180" height="610" rx="22" ry="22" fill="#D8E8F8"/>
+  <rect x="2" y="2" width="1176" height="606" rx="20" ry="20" fill="url(#bgL)" clip-path="url(#outerL)"/>
+  <rect x="2" y="2" width="1176" height="606" rx="20" ry="20" fill="url(#glLL)" clip-path="url(#outerL)"/>
+  <rect x="2" y="2" width="1176" height="606" rx="20" ry="20" fill="url(#glRL)" clip-path="url(#outerL)"/>
+
+  <!-- Grid -->
+  <g clip-path="url(#outerL)" opacity="0.045" stroke="#334155" stroke-width="0.5">
+    <line x1="0" y1="48" x2="1180" y2="48"/><line x1="0" y1="96" x2="1180" y2="96"/>
+    <line x1="0" y1="144" x2="1180" y2="144"/><line x1="0" y1="192" x2="1180" y2="192"/>
+    <line x1="0" y1="240" x2="1180" y2="240"/><line x1="0" y1="288" x2="1180" y2="288"/>
+    <line x1="0" y1="336" x2="1180" y2="336"/><line x1="0" y1="384" x2="1180" y2="384"/>
+    <line x1="0" y1="432" x2="1180" y2="432"/><line x1="0" y1="480" x2="1180" y2="480"/>
+    <line x1="0" y1="528" x2="1180" y2="528"/><line x1="0" y1="576" x2="1180" y2="576"/>
+    <line x1="60" y1="0" x2="60" y2="610"/><line x1="180" y1="0" x2="180" y2="610"/>
+    <line x1="300" y1="0" x2="300" y2="610"/><line x1="420" y1="0" x2="420" y2="610"/>
+    <line x1="540" y1="0" x2="540" y2="610"/><line x1="660" y1="0" x2="660" y2="610"/>
+    <line x1="780" y1="0" x2="780" y2="610"/><line x1="900" y1="0" x2="900" y2="610"/>
+    <line x1="1020" y1="0" x2="1020" y2="610"/><line x1="1140" y1="0" x2="1140" y2="610"/>
   </g>
-  
-  <!-- RIGHT PANEL - System.Info (62% width) -->
-  <g id="right-panel">
-    <!-- Panel container -->
-    <rect x="480" y="40" width="660" height="520" rx="12" fill="rgba(255,255,255,0.5)" stroke="rgba(37,99,235,0.12)" stroke-width="1.5"/>
-    
-    <!-- Terminal header for right panel -->
-    <rect x="480" y="40" width="660" height="40" rx="12" fill="rgba(226,232,240,0.4)" stroke="rgba(37,99,235,0.2)" stroke-width="1"/>
-    <text x="600" y="62" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#2563EB" font-weight="500">SYSTEM.INFO</text>
-    <text x="1100" y="62" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#64748B" text-anchor="end">root@profile:~$</text>
-    
-    <!-- Divider line -->
-    <line x1="480" y1="80" x2="1140" y2="80" stroke="rgba(37,99,235,0.1)" stroke-width="1"/>
-    
-    <!-- Info rows -->
-    <text x="510" y="120" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#06B6D4" font-weight="500">&gt; NAME</text>
-    <text x="1100" y="120" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#0F172A" text-anchor="end">Arpit</text>
-    
-    <text x="510" y="160" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#06B6D4" font-weight="500">&gt; ROLE</text>
-    <text x="1100" y="160" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#059669" text-anchor="end">Java Backend Developer</text>
-    
-    <text x="510" y="200" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#06B6D4" font-weight="500">&gt; FOCUS</text>
-    <text x="1100" y="200" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#0F172A" text-anchor="end">Backend · Spring Boot · APIs</text>
-    
-    <text x="510" y="240" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#06B6D4" font-weight="500">&gt; LOCATION</text>
-    <text x="1100" y="240" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#0F172A" text-anchor="end">Dehradun · Open to India</text>
-    
-    <!-- Divider -->
-    <line x1="510" y1="270" x2="1100" y2="270" stroke="rgba(37,99,235,0.08)" stroke-width="1" stroke-dasharray="4,4"/>
-    
-    <!-- Tech Stack heading -->
-    <text x="510" y="310" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" fill="#2563EB" font-weight="500" text-transform="uppercase">⚙ Tech Stack</text>
-    
-    <!-- Tech pills row 1 -->
-    <g id="tech-row-1">
-      <rect x="510" y="330" width="55" height="28" rx="6" fill="rgba(37,99,235,0.1)" stroke="rgba(37,99,235,0.3)" stroke-width="0.5"/>
-      <text x="537" y="350" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#0F172A" text-anchor="middle">Java</text>
-      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.1s" fill="freeze"/>
-      
-      <rect x="580" y="330" width="60" height="28" rx="6" fill="rgba(6,182,212,0.1)" stroke="rgba(6,182,212,0.3)" stroke-width="0.5"/>
-      <text x="610" y="350" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#0F172A" text-anchor="middle">Spring</text>
-      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.2s" fill="freeze"/>
-      
-      <rect x="655" y="330" width="85" height="28" rx="6" fill="rgba(37,99,235,0.1)" stroke="rgba(37,99,235,0.3)" stroke-width="0.5"/>
-      <text x="697" y="350" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#0F172A" text-anchor="middle">Spring Boot</text>
-      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.3s" fill="freeze"/>
-      
-      <rect x="755" y="330" width="75" height="28" rx="6" fill="rgba(16,185,129,0.1)" stroke="rgba(16,185,129,0.3)" stroke-width="0.5"/>
-      <text x="792" y="350" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#0F172A" text-anchor="middle">Hibernate</text>
-      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.4s" fill="freeze"/>
-    </g>
-    
-    <!-- Tech pills row 2 -->
-    <g id="tech-row-2">
-      <rect x="510" y="370" width="50" height="28" rx="6" fill="rgba(6,182,212,0.1)" stroke="rgba(6,182,212,0.3)" stroke-width="0.5"/>
-      <text x="535" y="390" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#0F172A" text-anchor="middle">MySQL</text>
-      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.5s" fill="freeze"/>
-      
-      <rect x="575" y="370" width="45" height="28" rx="6" fill="rgba(37,99,235,0.1)" stroke="rgba(37,99,235,0.3)" stroke-width="0.5"/>
-      <text x="597" y="390" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#0F172A" text-anchor="middle">Redis</text>
-      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.6s" fill="freeze"/>
-      
-      <rect x="635" y="370" width="60" height="28" rx="6" fill="rgba(16,185,129,0.1)" stroke="rgba(16,185,129,0.3)" stroke-width="0.5"/>
-      <text x="665" y="390" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#0F172A" text-anchor="middle">Docker</text>
-      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.7s" fill="freeze"/>
-      
-      <rect x="710" y="370" width="95" height="28" rx="6" fill="rgba(37,99,235,0.1)" stroke="rgba(37,99,235,0.3)" stroke-width="0.5"/>
-      <text x="757" y="390" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#0F172A" text-anchor="middle">REST APIs</text>
-      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.8s" fill="freeze"/>
-    </g>
-    
-    <!-- Tech pills row 3 -->
-    <g id="tech-row-3">
-      <rect x="510" y="410" width="80" height="28" rx="6" fill="rgba(6,182,212,0.1)" stroke="rgba(6,182,212,0.3)" stroke-width="0.5"/>
-      <text x="550" y="430" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#0F172A" text-anchor="middle">Git/GitHub</text>
-      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.9s" fill="freeze"/>
-      
-      <rect x="605" y="410" width="100" height="28" rx="6" fill="rgba(16,185,129,0.1)" stroke="rgba(16,185,129,0.3)" stroke-width="0.5"/>
-      <text x="655" y="430" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#0F172A" text-anchor="middle">JUnit/Mockito</text>
-      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.0s" fill="freeze"/>
-      
-      <rect x="720" y="410" width="85" height="28" rx="6" fill="rgba(37,99,235,0.1)" stroke="rgba(37,99,235,0.3)" stroke-width="0.5"/>
-      <text x="762" y="430" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#0F172A" text-anchor="middle">Java 8+</text>
-      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.1s" fill="freeze"/>
-    </g>
-    
-    <!-- Project section -->
-    <text x="510" y="475" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" fill="#2563EB" font-weight="500" text-transform="uppercase">📦 Building</text>
-    <text x="510" y="505" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#059669">▸ Student Management System</text>
-    <text x="530" y="525" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#64748B">Spring Boot • REST API • Authentication</text>
-    
-    <!-- Links section -->
-    <g id="links">
-      <text x="510" y="560" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" fill="#06B6D4" font-weight="500">→ GitHub:</text>
-      <text x="650" y="560" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" fill="#059669" text-decoration="underline">Arpit8279</text>
-      
-      <text x="850" y="560" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" fill="#06B6D4" font-weight="500">→ Email:</text>
-      <text x="990" y="560" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" fill="#059669" text-decoration="underline">sahuarpit33@gmail.com</text>
-    </g>
+
+  <!-- Border -->
+  <rect x="1" y="1" width="1178" height="608" rx="21" ry="21" fill="none" stroke="url(#shimmerL)" stroke-width="1.5" filter="url(#bglowL)" opacity="0.55"/>
+
+  <!-- HEADER BAR -->
+  <rect x="2" y="2" width="1176" height="40" rx="20" ry="20" fill="#EBF3FC" clip-path="url(#outerL)"/>
+  <rect x="2" y="25" width="1176" height="17" fill="#EBF3FC" clip-path="url(#outerL)"/>
+  <rect x="2" y="40" width="1176" height="1.2" fill="url(#shimmerL)" opacity="0.38"/>
+  <circle cx="30" cy="22" r="6" fill="#FF5F57"/>
+  <circle cx="50" cy="22" r="6" fill="#FEBC2E"/>
+  <circle cx="70" cy="22" r="6" fill="#28C840"/>
+  <text x="590" y="26" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" fill="#94A3B8" text-anchor="middle" letter-spacing="2.5">arpit@sahu:~  ·  profile.sh  ·  spring-dev</text>
+  <circle cx="1120" cy="22" r="4" fill="#10B981">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="1130" y="26" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#10B981" letter-spacing="1">OPEN</text>
+
+  <!-- LEFT PANEL -->
+  <rect x="18" y="54" width="430" height="542" rx="14" ry="14" fill="#FFFFFF" fill-opacity="0.88" stroke="#2563EB" stroke-width="0.8" stroke-opacity="0.22" filter="url(#shadowL)"/>
+  <rect x="18" y="54" width="430" height="30" rx="14" ry="14" fill="#E4EDFB" fill-opacity="0.95"/>
+  <rect x="18" y="68" width="430" height="16" fill="#E4EDFB" fill-opacity="0.95"/>
+  <rect x="18" y="83" width="430" height="1.2" fill="#2563EB" opacity="0.25"/>
+  <text x="233" y="73" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#2563EB" text-anchor="middle" letter-spacing="4">VISUAL.MAP</text>
+
+  <!-- ASCII portrait — light blue tones -->
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="6.8" text-anchor="middle" opacity="0" fill="#1D4ED8">
+    <animate attributeName="opacity" values="0;0.70" dur="0.7s" begin="0.4s" fill="freeze"/>
+    <text x="233" y="104">┌─────────────────────────────────────────────────────────────────────────┐</text>
+    <text x="233" y="111">│                                                                         │</text>
+    <text x="233" y="118">│               ·:+*################*+:·                                 │</text>
+    <text x="233" y="125">│            :*%@@@@@@@@@@@@@@@@@@@@@@@@%*:                              │</text>
+    <text x="233" y="132">│          +%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+                            │</text>
+    <text x="233" y="139">│        ·#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#·                          │</text>
+    <text x="233" y="146">│       *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*                         │</text>
+    <text x="233" y="153">│      #@@@@@@@@#*+::::::::::::::::+*#@@@@@@@@@@#                        │</text>
+    <text x="233" y="160">│      @@@@@@@%+    ·:+*##**#*+:·    +%@@@@@@@@@                        │</text>
+    <text x="233" y="167">│      @@@@@@@   ·*%@@@@##@@@@%*·   %@@@@@@@@@                          │</text>
+    <text x="233" y="174">│      @@@@@@@   #@@@@@##@@@@@@#   @@@@@@@@@@@                          │</text>
+    <text x="233" y="181">│      @@@@@@@   +@@@@@  @@@@@@+   @@@@@@@@@@@                          │</text>
+    <text x="233" y="188">│      @@@@@@@·    +**·  ·**+    ·@@@@@@@@@@@                           │</text>
+    <text x="233" y="195">│      @@@@@@@@                  @@@@@@@@@@@@                            │</text>
+    <text x="233" y="202">│      @@@@@@@@  ·+#%@@@@@@%#+·  @@@@@@@@@@@@                           │</text>
+    <text x="233" y="209">│      @@@@@@@@@#               #@@@@@@@@@@@@@                           │</text>
+    <text x="233" y="216">│       *@@@@@@@@@@%#########%@@@@@@@@@@@@@*                             │</text>
+    <text x="233" y="223">│         +*#%@@@@@@@@@@@@@@@@@@@@@@@%#*+                               │</text>
+    <text x="233" y="230">│                *@@@@@@@@@@@@@@*                                        │</text>
+    <text x="233" y="237">│               +@@@@@@@@@@@@@@@@+                                       │</text>
+    <text x="233" y="244">│              #@@@@@@@@@@@@@@@@@@@#                                     │</text>
+    <text x="233" y="251">│             %@@@@@@@@@@@@@@@@@@@@@@%                                   │</text>
+    <text x="233" y="258">│     ·+*##*· @@@@@@@@@@@@@@@@@@@@@@@@ ·+*##*·                          │</text>
+    <text x="233" y="265">│   +%@@@@@@%+%@@@@@@@@@@@@@@@@@@@@@@%+%@@@@@@%+                        │</text>
+    <text x="233" y="272">│  #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#                        │</text>
+    <text x="233" y="279">│ %@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%                      │</text>
+    <text x="233" y="286">│ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                      │</text>
+    <text x="233" y="293">│ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                      │</text>
+    <text x="233" y="300">│ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                      │</text>
+    <text x="233" y="307">│ %@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%                      │</text>
+    <text x="233" y="314">│ #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#                      │</text>
+    <text x="233" y="321">└─────────────────────────────────────────────────────────────────────────┘</text>
   </g>
-  
-  <!-- Subtle glow effect on panels -->
-  <rect x="40" y="40" width="420" height="340" rx="12" fill="none" stroke="rgba(37,99,235,0.08)" stroke-width="2" opacity="0" filter="url(#glow-light)">
-    <animate attributeName="opacity" values="0;0.2;0" dur="5s" repeatCount="indefinite"/>
+
+  <!-- Scanline sweep -->
+  <line x1="22" y1="190" x2="444" y2="190" stroke="#2563EB" stroke-width="0.6" opacity="0">
+    <animate attributeName="y1" values="96;322;96" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="y2" values="96;322;96" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.08;0" dur="5s" repeatCount="indefinite"/>
+  </line>
+
+  <line x1="38" y1="333" x2="428" y2="333" stroke="#CBD5E1" stroke-width="1"/>
+
+  <!-- NAME -->
+  <text x="233" y="359" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="27" fill="#0F172A" text-anchor="middle" font-weight="bold" letter-spacing="5" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.9s" fill="freeze"/>
+    ARPIT SAHU
+  </text>
+  <rect x="133" y="365" width="200" height="2" rx="1" fill="url(#shimmerL)" opacity="0">
+    <animate attributeName="opacity" values="0;0.9" dur="0.3s" begin="1.1s" fill="freeze"/>
   </rect>
-  
-  <!-- Corner accent lines -->
-  <line x1="40" y1="40" x2="80" y2="40" stroke="rgba(37,99,235,0.3)" stroke-width="1.5"/>
-  <line x1="40" y1="40" x2="40" y2="80" stroke="rgba(37,99,235,0.3)" stroke-width="1.5"/>
-  <line x1="1140" y1="40" x2="1100" y2="40" stroke="rgba(6,182,212,0.3)" stroke-width="1.5"/>
-  <line x1="1140" y1="40" x2="1140" y2="80" stroke="rgba(6,182,212,0.3)" stroke-width="1.5"/>
+
+  <text x="233" y="387" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" fill="#2563EB" text-anchor="middle" letter-spacing="1.5" filter="url(#glowL)" opacity="0">
+    <animate attributeName="opacity" values="0;0.92" dur="0.4s" begin="1.2s" fill="freeze"/>
+    Java · Spring Boot · Full-Stack Developer
+  </text>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0.7;0.7;0" dur="7s" begin="2.5s" repeatCount="indefinite"/>
+    <text x="233" y="404" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#7C3AED" text-anchor="middle" letter-spacing="1">Spring Security · JWT · REST APIs</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;0.7;0.7;0" dur="7s" begin="5.5s" repeatCount="indefinite"/>
+    <text x="233" y="404" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#10B981" text-anchor="middle" letter-spacing="1">MCA · Graphic Era Hill Univ · 2026</text>
+  </g>
+
+  <text x="233" y="424" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#94A3B8" text-anchor="middle" opacity="0">
+    <animate attributeName="opacity" values="0;0.8" dur="0.4s" begin="1.5s" fill="freeze"/>
+    ~/arpit $ java -jar career.jar --hire
+  </text>
+  <rect x="334" y="415" width="7" height="11" fill="#2563EB" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" dur="1.1s" begin="2s" repeatCount="indefinite"/>
+  </rect>
+
+  <line x1="38" y1="436" x2="428" y2="436" stroke="#CBD5E1" stroke-width="1"/>
+  <text x="233" y="458" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#94A3B8" text-anchor="middle" letter-spacing="4">CONNECT</text>
+
+  <rect x="45" y="467" width="182" height="26" rx="7" fill="#F1F5F9" stroke="#7C3AED" stroke-width="0.7" stroke-opacity="0.45"/>
+  <text x="56" y="484" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#7C3AED">⬡</text>
+  <text x="70" y="484" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#475569">github.com/Arpit8279</text>
+
+  <rect x="241" y="467" width="182" height="26" rx="7" fill="#F1F5F9" stroke="#2563EB" stroke-width="0.7" stroke-opacity="0.40"/>
+  <text x="252" y="484" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#2563EB">◈</text>
+  <text x="266" y="484" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#475569">linkedin/arpit-sahu</text>
+
+  <text x="233" y="510" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#64748B" text-anchor="middle">✉  sahuarpit33@gmail.com</text>
+  <text x="233" y="527" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9.5" fill="#64748B" text-anchor="middle">◎  Dehradun, Uttarakhand  ·  Open to Delhi/NCR</text>
+
+  <rect x="68" y="536" width="330" height="22" rx="7" fill="#EEF2FF" stroke="#2563EB" stroke-width="0.7" stroke-opacity="0.35"/>
+  <text x="233" y="551" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#2563EB" text-anchor="middle" letter-spacing="0.8">MCA · Graphic Era Hill University · 2026</text>
+  <rect x="68" y="562" width="330" height="22" rx="7" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.7"/>
+  <text x="233" y="577" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#64748B" text-anchor="middle" letter-spacing="0.8">BCA · Graphic Era Hill University · 2024</text>
+
+  <!-- RIGHT PANEL -->
+  <rect x="462" y="54" width="700" height="542" rx="14" ry="14" fill="#FFFFFF" fill-opacity="0.84" stroke="#06B6D4" stroke-width="0.8" stroke-opacity="0.22" filter="url(#shadowL)"/>
+  <rect x="462" y="54" width="700" height="30" rx="14" ry="14" fill="#DDF3FA" fill-opacity="0.90"/>
+  <rect x="462" y="68" width="700" height="16" fill="#DDF3FA" fill-opacity="0.90"/>
+  <rect x="462" y="83" width="700" height="1.2" fill="#06B6D4" opacity="0.28"/>
+  <text x="812" y="73" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#0369A1" text-anchor="middle" letter-spacing="4">SYSTEM.INFO</text>
+
+  <text x="481" y="108" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#94A3B8">arpit@dev:~$ ./profile.sh --verbose</text>
+
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12">
+    <text x="481" y="132" fill="#94A3B8">›</text>
+    <text x="496" y="132" fill="#94A3B8" letter-spacing="0.5">NAME</text>
+    <text x="610" y="132" fill="#0F172A" font-weight="bold">Arpit Sahu</text>
+    <text x="481" y="153" fill="#94A3B8">›</text>
+    <text x="496" y="153" fill="#94A3B8" letter-spacing="0.5">ROLE</text>
+    <text x="610" y="153" fill="#2563EB">Java · Spring Boot Developer</text>
+    <text x="481" y="174" fill="#94A3B8">›</text>
+    <text x="496" y="174" fill="#94A3B8" letter-spacing="0.5">INTERN</text>
+    <text x="610" y="174" fill="#10B981">Edunet Foundation  ×  AICTE  ·  Aug–Sep 2026</text>
+    <text x="481" y="195" fill="#94A3B8">›</text>
+    <text x="496" y="195" fill="#94A3B8" letter-spacing="0.5">LOCATION</text>
+    <text x="610" y="195" fill="#0F172A">Dehradun, Uttarakhand</text>
+    <text x="880" y="195" fill="#10B981" font-size="10">→ Relocate</text>
+    <text x="481" y="216" fill="#94A3B8">›</text>
+    <text x="496" y="216" fill="#94A3B8" letter-spacing="0.5">EDUCATION</text>
+    <text x="610" y="216" fill="#0F172A">MCA · BCA  ·  Graphic Era Hill University</text>
+    <text x="481" y="237" fill="#94A3B8">›</text>
+    <text x="496" y="237" fill="#94A3B8" letter-spacing="0.5">FOCUS</text>
+    <text x="610" y="237" fill="#7C3AED">Backend Eng · Security · REST APIs · Web</text>
+  </g>
+
+  <line x1="481" y1="250" x2="1143" y2="250" stroke="#E2E8F0" stroke-width="1"/>
+  <text x="481" y="268" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9.5" fill="#94A3B8" letter-spacing="3.5">TECH.STACK</text>
+
+  <!-- Row 1 pills -->
+  <rect x="481" y="277" width="62" height="22" rx="6" fill="url(#pillL)" stroke="#7C3AED" stroke-width="0.8" stroke-opacity="0.55"/>
+  <circle cx="491" cy="288" r="2.8" fill="#10B981"/><text x="498" y="292" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#0F172A">Java 8</text>
+  <rect x="551" y="277" width="95" height="22" rx="6" fill="url(#pillL)" stroke="#7C3AED" stroke-width="0.8" stroke-opacity="0.55"/>
+  <circle cx="561" cy="288" r="2.8" fill="#10B981"/><text x="568" y="292" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#0F172A">Spring Boot</text>
+  <rect x="654" y="277" width="118" height="22" rx="6" fill="url(#pillL)" stroke="#7C3AED" stroke-width="0.8" stroke-opacity="0.55"/>
+  <circle cx="664" cy="288" r="2.8" fill="#7C3AED"/><text x="671" y="292" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#0F172A">Spring Security</text>
+  <rect x="780" y="277" width="98" height="22" rx="6" fill="url(#pillL)" stroke="#06B6D4" stroke-width="0.8" stroke-opacity="0.45"/>
+  <circle cx="790" cy="288" r="2.8" fill="#06B6D4"/><text x="797" y="292" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#0F172A">Spring MVC</text>
+  <rect x="886" y="277" width="80" height="22" rx="6" fill="url(#pillL)" stroke="#06B6D4" stroke-width="0.8" stroke-opacity="0.45"/>
+  <circle cx="896" cy="288" r="2.8" fill="#06B6D4"/><text x="903" y="292" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#0F172A">Hibernate</text>
+  <rect x="974" y="277" width="48" height="22" rx="6" fill="url(#pillL)" stroke="#10B981" stroke-width="0.8" stroke-opacity="0.5"/>
+  <circle cx="984" cy="288" r="2.8" fill="#10B981"/><text x="991" y="292" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#0F172A">JWT</text>
+
+  <!-- Row 2 pills -->
+  <rect x="481" y="306" width="80" height="22" rx="6" fill="url(#pillL)" stroke="#06B6D4" stroke-width="0.8" stroke-opacity="0.4"/>
+  <circle cx="491" cy="317" r="2.8" fill="#06B6D4"/><text x="498" y="321" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#475569">REST APIs</text>
+  <rect x="569" y="306" width="64" height="22" rx="6" fill="url(#pillL)" stroke="#10B981" stroke-width="0.8" stroke-opacity="0.5"/>
+  <circle cx="579" cy="317" r="2.8" fill="#10B981"/><text x="586" y="321" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#0F172A">MySQL</text>
+  <rect x="641" y="306" width="64" height="22" rx="6" fill="url(#pillL)" stroke="#06B6D4" stroke-width="0.8" stroke-opacity="0.4"/>
+  <circle cx="651" cy="317" r="2.8" fill="#06B6D4"/><text x="658" y="321" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#475569">Docker</text>
+  <rect x="713" y="306" width="56" height="22" rx="6" fill="url(#pillL)" stroke="#7C3AED" stroke-width="0.8" stroke-opacity="0.45"/>
+  <circle cx="723" cy="317" r="2.8" fill="#7C3AED"/><text x="730" y="321" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#475569">Redis</text>
+  <rect x="777" y="306" width="60" height="22" rx="6" fill="url(#pillL)" stroke="#06B6D4" stroke-width="0.8" stroke-opacity="0.4"/>
+  <circle cx="787" cy="317" r="2.8" fill="#06B6D4"/><text x="794" y="321" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#475569">React</text>
+  <rect x="845" y="306" width="92" height="22" rx="6" fill="url(#pillL)" stroke="#94A3B8" stroke-width="0.8" stroke-opacity="0.35"/>
+  <circle cx="855" cy="317" r="2.8" fill="#94A3B8"/><text x="862" y="321" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#64748B">JUnit/Mockito</text>
+  <rect x="945" y="306" width="50" height="22" rx="6" fill="url(#pillL)" stroke="#94A3B8" stroke-width="0.8" stroke-opacity="0.35"/>
+  <circle cx="955" cy="317" r="2.8" fill="#94A3B8"/><text x="962" y="321" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#64748B">Git</text>
+  <rect x="1003" y="306" width="75" height="22" rx="6" fill="url(#pillL)" stroke="#06B6D4" stroke-width="0.7" stroke-opacity="0.35"/>
+  <circle cx="1013" cy="317" r="2.8" fill="#06B6D4"/><text x="1020" y="321" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#64748B">Tailwind</text>
+
+  <line x1="481" y1="340" x2="1143" y2="340" stroke="#E2E8F0" stroke-width="1"/>
+  <text x="481" y="358" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9.5" fill="#94A3B8" letter-spacing="3.5">FEATURED.PROJECTS</text>
+
+  <rect x="481" y="367" width="654" height="52" rx="8" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="0.8"/>
+  <rect x="481" y="367" width="4" height="52" rx="2" fill="#7C3AED"/>
+  <text x="496" y="384" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" fill="#0F172A" font-weight="bold">Offline Transaction Mesh Payment System</text>
+  <text x="496" y="398" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#64748B">Offline UPI via Bluetooth mesh ·</text>
+  <text x="636" y="398" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#7C3AED"> RSA-2048+AES-256-GCM</text>
+  <text x="496" y="411" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#64748B">Idempotency layer · replay-attack prevention · Spring Boot · REST APIs</text>
+
+  <rect x="481" y="426" width="654" height="52" rx="8" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="0.8"/>
+  <rect x="481" y="426" width="4" height="52" rx="2" fill="#06B6D4"/>
+  <text x="496" y="443" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" fill="#0F172A" font-weight="bold">Student Management System</text>
+  <text x="496" y="457" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#64748B">Layered REST API · JWT auth · BCrypt · RBAC (ADMIN/STUDENT) ·</text>
+  <text x="496" y="470" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#64748B">Spring Security · JUnit5 + Mockito · Swagger/OpenAPI · MySQL</text>
+
+  <rect x="481" y="485" width="654" height="52" rx="8" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="0.8"/>
+  <rect x="481" y="485" width="4" height="52" rx="2" fill="#10B981"/>
+  <text x="496" y="502" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" fill="#0F172A" font-weight="bold">Navratna Career &amp; Knowledge Academy</text>
+  <text x="496" y="516" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#64748B">Production website · React + TypeScript + Tailwind CSS ·</text>
+  <text x="496" y="529" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#64748B">SEO (Google Search Console, IndexNow) · custom domain · Vercel</text>
+
+  <line x1="481" y1="546" x2="1143" y2="546" stroke="#E2E8F0" stroke-width="1"/>
+
+  <text x="481" y="565" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#94A3B8">STATUS:</text>
+  <rect x="534" y="555" width="72" height="14" rx="4" fill="#DCFCE7"/>
+  <text x="540" y="565" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="8.5" fill="#15803D">▶ HIRING</text>
+  <text x="618" y="565" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#94A3B8">CERTS:</text>
+  <text x="657" y="565" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#2563EB">Spring Boot (Coding Shuttle)  ·  AI (IBM SkillsBuild)</text>
+  <text x="990" y="565" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#94A3B8">📞</text>
+  <text x="1004" y="565" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#64748B">827-993-7163</text>
+
+  <circle cx="90" cy="560" r="1.5" fill="#2563EB" opacity="0.3">
+    <animate attributeName="cy" values="560;530;560" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="370" cy="545" r="1" fill="#06B6D4" opacity="0.25">
+    <animate attributeName="cy" values="545;515;545" dur="5.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1100" cy="490" r="1.5" fill="#10B981" opacity="0.3">
+    <animate attributeName="cy" values="490;460;490" dur="3.8s" repeatCount="indefinite"/>
+  </circle>
+
 </svg>
